@@ -1,0 +1,30 @@
+  0B	./3.txt 
+8,0K	./.DS_Store
+ 28K	./cheatsheet-as-sourcefile.cpp
+ 28K	./README.md
+4,0K	./.git/config
+ 36K	./.git/objects/pack/pack-316abacb79600bff830985fa8c3305c910df10be.pack
+4,0K	./.git/objects/pack/pack-316abacb79600bff830985fa8c3305c910df10be.idx
+4,0K	./.git/HEAD
+4,0K	./.git/info/exclude
+4,0K	./.git/logs/HEAD
+4,0K	./.git/logs/refs/heads/master
+4,0K	./.git/logs/refs/remotes/origin/HEAD
+4,0K	./.git/description
+4,0K	./.git/hooks/commit-msg.sample
+8,0K	./.git/hooks/pre-rebase.sample
+4,0K	./.git/hooks/pre-commit.sample
+4,0K	./.git/hooks/applypatch-msg.sample
+8,0K	./.git/hooks/fsmonitor-watchman.sample
+4,0K	./.git/hooks/pre-receive.sample
+4,0K	./.git/hooks/prepare-commit-msg.sample
+4,0K	./.git/hooks/post-update.sample
+4,0K	./.git/hooks/pre-merge-commit.sample
+4,0K	./.git/hooks/pre-applypatch.sample
+4,0K	./.git/hooks/pre-push.sample
+4,0K	./.git/hooks/update.sample
+4,0K	./.git/hooks/push-to-checkout.sample
+4,0K	./.git/refs/heads/master
+4,0K	./.git/refs/remotes/origin/HEAD
+4,0K	./.git/index
+4,0K	./.git/packed-refs
